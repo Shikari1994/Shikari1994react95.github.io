@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css",
-    "main.js": "/Shikari1994react95.github.io/static/js/main.f6c6963b.js",
+    "main.js": "/Shikari1994react95.github.io/static/js/main.ad7f8d06.js",
     "static/js/453.ce622b35.chunk.js": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js",
+    "static/media/arni.gif": "/Shikari1994react95.github.io/static/media/arni.298cc369ee859cefc0f7.gif",
     "index.html": "/Shikari1994react95.github.io/index.html",
     "main.57bb4c1c.css.map": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css.map",
-    "main.f6c6963b.js.map": "/Shikari1994react95.github.io/static/js/main.f6c6963b.js.map",
+    "main.ad7f8d06.js.map": "/Shikari1994react95.github.io/static/js/main.ad7f8d06.js.map",
     "453.ce622b35.chunk.js.map": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57bb4c1c.css",
-    "static/js/main.f6c6963b.js"
+    "static/js/main.ad7f8d06.js"
   ]
 }
