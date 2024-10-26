@@ -1,16 +1,27 @@
 {
   "files": {
     "main.css": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css",
-    "main.js": "/Shikari1994react95.github.io/static/js/main.ad7f8d06.js",
+    "main.js": "/Shikari1994react95.github.io/static/js/main.d1beec74.js",
     "static/js/453.ce622b35.chunk.js": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js",
     "static/media/arni.gif": "/Shikari1994react95.github.io/static/media/arni.298cc369ee859cefc0f7.gif",
+    "static/media/спина.png": "/Shikari1994react95.github.io/static/media/спина.060deb31b83c5aec0126.png",
+    "static/media/штанбиц.png": "/Shikari1994react95.github.io/static/media/штанбиц.defd20a2d6f0afd1c762.png",
+    "static/media/присед.jpeg": "/Shikari1994react95.github.io/static/media/присед.a2fa0a3b16a20c69b0fe.jpeg",
+    "static/media/жим.jpeg": "/Shikari1994react95.github.io/static/media/жим.ae281995a3688bfefa6e.jpeg",
+    "static/media/сруч.jpeg": "/Shikari1994react95.github.io/static/media/сруч.432ce10c1b03feb2eecc.jpeg",
+    "static/media/жимногами.jpeg": "/Shikari1994react95.github.io/static/media/жимногами.0545bfdf4d381fcb7943.jpeg",
+    "static/media/тяга45.jpeg": "/Shikari1994react95.github.io/static/media/тяга45.87430538e230bbb8d00f.jpeg",
+    "static/media/разводка.jpeg": "/Shikari1994react95.github.io/static/media/разводка.47e58209441ef3fd158b.jpeg",
+    "static/media/брусья.jpeg": "/Shikari1994react95.github.io/static/media/брусья.1e0dafb904ffde2a5ee8.jpeg",
+    "static/media/пол.webp": "/Shikari1994react95.github.io/static/media/пол.edca3d038de2052dc4ec.webp",
+    "static/media/подтяг.jpeg": "/Shikari1994react95.github.io/static/media/подтяг.4442d31eaa12373c658b.jpeg",
     "index.html": "/Shikari1994react95.github.io/index.html",
     "main.57bb4c1c.css.map": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css.map",
-    "main.ad7f8d06.js.map": "/Shikari1994react95.github.io/static/js/main.ad7f8d06.js.map",
+    "main.d1beec74.js.map": "/Shikari1994react95.github.io/static/js/main.d1beec74.js.map",
     "453.ce622b35.chunk.js.map": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57bb4c1c.css",
-    "static/js/main.ad7f8d06.js"
+    "static/js/main.d1beec74.js"
   ]
 }
