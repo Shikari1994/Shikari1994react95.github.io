@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css",
-    "main.js": "/Shikari1994react95.github.io/static/js/main.ee37e996.js",
+    "main.js": "/Shikari1994react95.github.io/static/js/main.71fbb51e.js",
     "static/js/453.ce622b35.chunk.js": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js",
     "static/media/arni.gif": "/Shikari1994react95.github.io/static/media/arni.298cc369ee859cefc0f7.gif",
     "static/media/спина.png": "/Shikari1994react95.github.io/static/media/спина.060deb31b83c5aec0126.png",
@@ -17,11 +17,11 @@
     "static/media/подтяг.jpeg": "/Shikari1994react95.github.io/static/media/подтяг.4442d31eaa12373c658b.jpeg",
     "index.html": "/Shikari1994react95.github.io/index.html",
     "main.57bb4c1c.css.map": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css.map",
-    "main.ee37e996.js.map": "/Shikari1994react95.github.io/static/js/main.ee37e996.js.map",
+    "main.71fbb51e.js.map": "/Shikari1994react95.github.io/static/js/main.71fbb51e.js.map",
     "453.ce622b35.chunk.js.map": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57bb4c1c.css",
-    "static/js/main.ee37e996.js"
+    "static/js/main.71fbb51e.js"
   ]
 }
