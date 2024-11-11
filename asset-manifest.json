@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css",
-    "main.js": "/Shikari1994react95.github.io/static/js/main.71fbb51e.js",
+    "main.css": "/Shikari1994react95.github.io/static/css/main.ea279ba8.css",
+    "main.js": "/Shikari1994react95.github.io/static/js/main.d848e64a.js",
     "static/js/453.ce622b35.chunk.js": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js",
-    "static/media/arni.gif": "/Shikari1994react95.github.io/static/media/arni.298cc369ee859cefc0f7.gif",
+    "static/media/hello.png": "/Shikari1994react95.github.io/static/media/hello.3225c9733ac8bf6adaff.png",
+    "static/media/png": "/Shikari1994react95.github.io/static/media/1f649e1193b711efb399fa9c70a2dfc2.c2a0be37447f47df60ab.png",
+    "static/media/98qaCGo.jpeg": "/Shikari1994react95.github.io/static/media/98qaCGo.7d21edc0893d00af73b5.jpeg",
     "static/media/спина.png": "/Shikari1994react95.github.io/static/media/спина.060deb31b83c5aec0126.png",
+    "static/media/_8afc8f5e-b5ec-435e-b5dc-5eeb79b26e9c.jpeg": "/Shikari1994react95.github.io/static/media/_8afc8f5e-b5ec-435e-b5dc-5eeb79b26e9c.c0afe2bba35e2bd9129a.jpeg",
+    "static/media/windows-98-yaa4sbkls0sleaqm.jpg": "/Shikari1994react95.github.io/static/media/windows-98-yaa4sbkls0sleaqm.f44472ade1d5e20636cc.jpg",
     "static/media/штанбиц.png": "/Shikari1994react95.github.io/static/media/штанбиц.defd20a2d6f0afd1c762.png",
+    "static/media/jpeg": "/Shikari1994react95.github.io/static/media/97b5c1aec1984683b45e49d8ed41fdff.de0c8265c02d367faaea.jpeg",
+    "static/media/_1f2031df-bc8b-4eeb-b759-ca66da276e75.jpeg": "/Shikari1994react95.github.io/static/media/_1f2031df-bc8b-4eeb-b759-ca66da276e75.81caf2937b88a44cffb8.jpeg",
     "static/media/присед.jpeg": "/Shikari1994react95.github.io/static/media/присед.a2fa0a3b16a20c69b0fe.jpeg",
+    "static/media/vaporwave-landscape-windows-95-windows-98-wallpaper-jpg": "/Shikari1994react95.github.io/static/media/vaporwave-landscape-windows-95-windows-98-wallpaper-7930382da12afdebb6c7584f702176ed.3ad6f2299001dea392ca.jpg",
     "static/media/жим.jpeg": "/Shikari1994react95.github.io/static/media/жим.ae281995a3688bfefa6e.jpeg",
+    "static/media/HomeVideo-Regular.ttf": "/Shikari1994react95.github.io/static/media/HomeVideo-Regular.9fd637378ffbad557bb9.ttf",
     "static/media/сруч.jpeg": "/Shikari1994react95.github.io/static/media/сруч.432ce10c1b03feb2eecc.jpeg",
     "static/media/жимногами.jpeg": "/Shikari1994react95.github.io/static/media/жимногами.0545bfdf4d381fcb7943.jpeg",
     "static/media/тяга45.jpeg": "/Shikari1994react95.github.io/static/media/тяга45.87430538e230bbb8d00f.jpeg",
@@ -16,12 +24,12 @@
     "static/media/пол.webp": "/Shikari1994react95.github.io/static/media/пол.edca3d038de2052dc4ec.webp",
     "static/media/подтяг.jpeg": "/Shikari1994react95.github.io/static/media/подтяг.4442d31eaa12373c658b.jpeg",
     "index.html": "/Shikari1994react95.github.io/index.html",
-    "main.57bb4c1c.css.map": "/Shikari1994react95.github.io/static/css/main.57bb4c1c.css.map",
-    "main.71fbb51e.js.map": "/Shikari1994react95.github.io/static/js/main.71fbb51e.js.map",
+    "main.ea279ba8.css.map": "/Shikari1994react95.github.io/static/css/main.ea279ba8.css.map",
+    "main.d848e64a.js.map": "/Shikari1994react95.github.io/static/js/main.d848e64a.js.map",
     "453.ce622b35.chunk.js.map": "/Shikari1994react95.github.io/static/js/453.ce622b35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57bb4c1c.css",
-    "static/js/main.71fbb51e.js"
+    "static/css/main.ea279ba8.css",
+    "static/js/main.d848e64a.js"
   ]
 }
